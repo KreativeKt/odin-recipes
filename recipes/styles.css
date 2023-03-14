@@ -1,0 +1,23 @@
+html {background-color:black}
+
+h1,h2,h3,p {color:white; font-size:xx-large; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+text-align:center;}
+
+li {color:white; font-size:large;
+text-align:center;}
+
+#title { color:white;font-size: 100px;
+font-family:'Trebuchet MS', sans-serif;}
+
+
+.smaller {font-size:small;}
+.small-title {font-size:large;color:white;
+text-align:center;}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
